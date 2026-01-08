@@ -1,0 +1,34 @@
+
+{
+    "locale": "it-IT",
+    "strings": {
+        "tx1": "Clicca sulla lente d'ingrandimento",
+        "tx2": "Digita: explorer nella casella di ricerca",
+        "tx3": "Clicca su PI System Explorer",
+        "tx4": "Questa formazione simula il sistema per garantire l'efficacia dell'apprendimento. Ora imparerai come registrare e attivare le variabili di ogni sezione della macchina, assicurando che i calcoli di conformità vengano eseguiti correttamente. Questa formazione affronta anche la risoluzione del problema “Calc Failed”, che si verifica quando la ricetta e il codice del prodotto sono già registrati nel piano di controllo e in PI System Explorer, ma il calcolo non viene eseguito come mostrato nell'immagine seguente.",
+        "tx5": "Qui abbiamo il codice del prodotto e il prodotto già registrato. Tuttavia, si verifica un errore di calcolo perché le variabili delle sezioni non sono registrate — sia quelle di priorità B che quelle di priorità A — come indicato dal campo che lampeggia in rosso. Per questo motivo, il valore visualizzato come Totale è pari a zero. (Quadrato verde lampeggiante)",
+        "tx6": "ATTENZIONE! Questa formazione non si applica se il prodotto o il codice non è registrato nel sistema. Se nella schermata di PI Vision appare il messaggio “No Data”, come mostrato nell'immagine sotto, la procedura non funzionerà. In questa situazione, è necessario registrare il prodotto, il codice o entrambi e successivamente registrare le variabili.",
+        "tx7": "Ho capito",
+        "tx8": "Avanti",
+        "tx9": "Clicca sul segno + accanto a suzano",
+        "tx10": "Clicca sul segno + accanto a AFC",
+        "tx11": "Clicca su AC21",
+        "tx12": "Clicca una volta sul nome della ricetta attualmente attiva",
+        "tx13": "Clicca su attributi",
+        "tx14": "Ora clicca all'interno del campo value dove si trova la ricetta",
+        "tx15": "Premi Ctrl + A",
+        "tx16": "Ora premi Ctrl + C per copiare il testo selezionato",
+        "tx17": "Ora che abbiamo copiato la ricetta, apriamo il piano di controllo di questa macchina per registrare questa ricetta in tutte le variabili di ogni sezione della macchina",
+        "tx18": "Clicca sui 3 punti accanto al file del piano di controllo, poi apri e apri nell'applicazione. NOTA: APRI SEMPRE NELL'APPLICAZIONE, ALTRIMENTI NON FUNZIONERÀ",
+        "tx19": "Ora premi Ctrl + V per incollare la ricetta che abbiamo copiato prima",
+        "tx20": "Ora clicca su riempi e copia tabella",
+        "tx21": "Ora incolliamo tutto ciò che abbiamo copiato nella tabella di PI System Explorer affinché questa ricetta venga eseguita su tutte le variabili della macchina",
+        "tx22": "Clicca sulla cella B2",
+        "tx23": "Nella colonna dove si trova il nome della macchina, clicca sull'ultima cella vuota in basso",
+        "tx24": "Ora premi Ctrl + V per incollare tutte le variabili che abbiamo creato e copiato in Excel",
+        "tx25": "Pronto, ora che hai effettuato il check-in, le variabili sono state registrate con successo. Clicca su OK per vedere come appare la schermata di PI Vision.",
+        "tx26": "IMPORTANTE! L'errore calc fail può impiegare fino a 30 minuti per scomparire e la schermata tornare alla normalità, consentendo l'esecuzione dei calcoli di conformità delle variabili dentro e fuori dal range. Attendi questo periodo di 30 minuti. Se il problema persiste dopo questo tempo, contatta lo sviluppatore via e-mail: robson.souza1@kcc.com.",
+        "tx27": "Concludi",
+        "tx28": "Puoi chiudere la pagina o cliccare su uno dei pulsanti qui sotto"
+    }
+}

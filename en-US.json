@@ -1,0 +1,35 @@
+
+
+{
+    "locale": "en-US",
+    "strings": {
+        "tx1": "Click on the magnifying glass",
+        "tx2": "Type: explorer in the search box",
+        "tx3": "Click on PI System Explorer",
+        "tx4": "This training simulates the system to ensure learning effectiveness. Now you will learn how to register and activate the variables for each machine section, ensuring that compliance calculations are performed correctly. This training also covers solving the “Calc Failed” issue, which occurs when the recipe and product code are already registered in the control plan and PI System Explorer, but the calculation does not run as shown in the image below.",
+        "tx5": "Here we have the product code and the product already registered. Even so, a calculation failure occurs because the section variables are not registered — both priority B and priority A — as indicated by the field flashing in red. For this reason, the value displayed as Total is zero. (Green square flashing)",
+        "tx6": "ATTENTION! This training does not apply if the product or code is not registered in the system. If the PI Vision screen shows the message “No Data,” as in the image below, the procedure will not work. In this case, you need to register the product, the code, or both, and then register the variables.",
+        "tx7": "Got it",
+        "tx8": "Next",
+        "tx9": "Click the + sign next to suzano",
+        "tx10": "Click the + sign next to AFC",
+        "tx11": "Click on AC21",
+        "tx12": "Click once on the name of the recipe that is currently active",
+        "tx13": "Click on attributes",
+        "tx14": "Now click inside the value field where the recipe is",
+        "tx15": "Press Ctrl + A",
+        "tx16": "Now press Ctrl + C to copy the selected text",
+        "tx17": "Now that we’ve copied the recipe, let’s open the control plan for this machine to register this recipe for all variables in each machine section",
+        "tx18": "Click the 3 dots next to the control plan file, then open, and open in the app. NOTE: ALWAYS OPEN IN THE APP, OTHERWISE IT WILL NOT WORK",
+        "tx19": "Now press Ctrl + V to paste the recipe we copied earlier",
+        "tx20": "Now click on fill and copy table",
+        "tx21": "Now let’s paste everything we copied into the PI System Explorer table so this recipe runs for all machine variables",
+        "tx22": "Click on cell B2",
+        "tx23": "In the column where the machine name is, click the last empty cell at the bottom",
+        "tx24": "Now press Ctrl + V to paste all the variables we created and copied in Excel",
+        "tx25": "Ready, now that you’ve checked in, the variables have been successfully registered. Click OK to see how the PI Vision screen looks.",
+        "tx26": "IMPORTANT! The calc fail error may take up to 30 minutes to disappear and the screen to return to normal, allowing compliance calculations for variables inside and outside the range. Wait for this 30-minute period. If the problem persists after this time, contact the developer at: robson.souza1@kcc.com.",
+        "tx27": "Finish",
+        "tx28": "You can close the page or click one of the buttons below"
+    }
+}

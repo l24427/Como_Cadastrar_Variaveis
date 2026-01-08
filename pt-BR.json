@@ -1,0 +1,34 @@
+{
+	"locale": "pt-BR",
+	"strings": {
+		"tx1": "Clique na lupa",
+		"tx2": "Digite: explorer na caixa de busca",
+		"tx3": "Clique em PI System Explorer",
+		"tx4": "Este treinamento simula o sistema para garantir a eficácia do aprendizado. Agora você aprenderá como cadastrar e ativar as variáveis de cada seção da máquina, garantindo que os cálculos de conformidade sejam realizados corretamente. Este treinamento também aborda a resolução do problema “Calc Failed”, que ocorre quando já temos a receita e o código do produto cadastrados no plano de controle e no PI System Explorer, mas o cálculo não é executado conforme mostrado na imagem a seguir.",
+		"tx5": "Aqui temos o código do produto e o produto já cadastrado. Mesmo assim, ocorre uma falha no cálculo porque as variáveis das seções não estão cadastradas — tanto as de prioridade B quanto as de prioridade A — conforme indicado pelo campo que está piscando em vermelho. Por esse motivo, o valor exibido como Total está zerado. (Quadrado verde piscando)",
+		"tx6": "ATENÇÃO! Este treinamento não se aplica caso o produto ou o código não esteja cadastrado no sistema. Se na tela do PI Vision aparecer a mensagem “No Data”, conforme a imagem abaixo, o procedimento não funcionará. Nessa situação, é necessário cadastrar o produto, o código ou ambos e, em seguida, cadastrar as variáveis.",
+		"tx7": "Entendi",
+		"tx8": "Próximo",
+		"tx9":  "Clique no sinal de + ao lado de suzano",
+		"tx10": "Clique no sinal de + ao lado de AFC",
+		"tx11": "Clique em AC21",
+		"tx12": "Clique uma vez em cima do nome da receita que está ativa no momento",
+		"tx13": "Clique em atributes",
+		"tx14": "Agora clique dentro do campo value onde está a receita",
+		"tx15": "Aperte Ctrl + a",
+		"tx16": "Agora aperte Ctrl + C para copiar o texto selecionado",
+		"tx17": "Agora que copiamos a receita, vamos abrir o plano de controle dessa máquina para cadastrar essa receita para todas as variaveis de cada seção da máquina",
+		"tx18": "Clique nos 3 pontos ao lado do arquivo do plano de controle, depois abrir, e abrir no aplicativo, OBSERVAÇÃO: SEMPRE ABRA NO APLICATIVO, CASO CONTRÁRIO, NÃO IRÁ FUNCIONAR",
+		"tx19": "Agora aperte Ctrl + V para colar a receita que copiamos antes",
+		"tx20": "Agora aperte em preencher e copiar tabela",
+		"tx21": "Agora vamos colar tudo que copiamos na tabela do Pi System Explorer para que essa receita rode todas as variaveis da máquina",
+		"tx22": "Clique na célula B2",
+		"tx23": "Na coluna onde está o nome da Máquina clique na ultima célula vazia lá em baixo",
+		"tx24": "Agora aperte Ctrl + v para colar todas as variaveis que criamos e copiamos no excel",
+		"tx25": "Pronto, agora que você fez o check in as variáveis foram cadastradas com sucesso, clique em OK para ver como ficou a tela do Pi Vision",
+		"tx26": "IMPORTANTE! O erro calc fail pode levar até 30 minutos para desaparecer e a tela voltar ao normal, permitindo a realização dos cálculos de conformidade das variáveis dentro e fora do range. Aguarde esse período de 30 minutos. Caso o problema persista após esse tempo, entre em contato com o desenvolvedor pelo e-mail: robson.souza1@kcc.com.",
+		"tx27": "Concluir",
+		"tx28": "Você pode fechar a pagina ou clicar em um dos botões abaixo"
+
+	}
+}
